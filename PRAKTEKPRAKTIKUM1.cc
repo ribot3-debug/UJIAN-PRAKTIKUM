@@ -9,7 +9,7 @@ int main() {
 
         cout << endl;
 
-    cout << "Silakhkan masukkan    :" << endl;
+    cout << "Silahkan masukkan    :" << endl;
     cout << "Harga barang (Rp)    = ";
     cin >> hargaBarang;
 
@@ -30,3 +30,4 @@ int main() {
     return 0;
 
 }
+
